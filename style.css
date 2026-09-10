@@ -2,4 +2,8 @@
     color: hwb(174 10% 42%);
 display: flex;
 justify-content: space-around;}
+
 .imagem-logo{width: 80px;}
+ 
+.sobre{background-color: darkorchid;
+color: darkgrey;}
