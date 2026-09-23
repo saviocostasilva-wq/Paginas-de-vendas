@@ -6,4 +6,23 @@ justify-content: space-around;}
 .imagem-logo{width: 80px;}
  
 .sobre{background-color: darkorchid;
-color: darkgrey;}
+color: darkgrey;
+text-align: center;
+padding: 40px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.vendas{
+    text-align: center;
+    margin: auto;
+    background-color: darksalmon;
+}
+.vendas-div{
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    background-color: azure;
+    padding-bottom: 20px;
+}
